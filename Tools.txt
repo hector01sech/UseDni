@@ -1,0 +1,11 @@
+This service allows 100% use of the Reniec API;
+GET: https://api.apis.net.pe/v2/reniec/dni?numero=72771233
+
+SERVICE LINK:
+https://apis.net.pe/app/
+
+
+Apis Peru: More extensive service but with fewer DNI records: https://apisperu.com/servicios/dniruc#register
+GET:https://dniruc.apisperu.com/api/v1/dni/72771229?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6ImhlY3RvcnlhcmV0YWh1YW1hbkBnbWFpbC5jb20ifQ.xEXssYeyZPjomOYb0mRqffGFH0DGT88KXr5sfYyGpu0
+
+check the email or dashboard to learn more about the token
